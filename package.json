@@ -1,6 +1,6 @@
 {
   "name": "map-promised",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert a Map to a Promised Map.",
   "main": "index.js",
   "scripts": {

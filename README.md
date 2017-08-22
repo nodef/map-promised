@@ -1,5 +1,7 @@
 # map-promised
 
+[![NPM](https://nodei.co/npm/map-promised.png)](https://nodei.co/npm/map-promised/)
+
 Convert a Map to a Promised Map.
 
 ```javascript
