@@ -6,6 +6,7 @@ Convert a Map to a Promised Map.
 
 ```javascript
 var MapPromised = require('map-promised');
+// MapPromised(<source>)
 
 var map = new MapPromised(new Map());
 map.set('elon musk', 'he inspires the shit out of us');
