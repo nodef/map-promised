@@ -1,0 +1,23 @@
+{
+  "name": "map-promised",
+  "version": "0.0.0",
+  "description": "Convert a Map to a Promised Map.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfram77/node-mappromised.git"
+  },
+  "keywords": [
+    "map",
+    "promised"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfram77/node-mappromised/issues"
+  },
+  "homepage": "https://github.com/wolfram77/node-mappromised#readme"
+}
