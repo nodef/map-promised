@@ -1,9 +1,14 @@
-var $ = function MapPromised(src) {
+'use strict';
+const $ = function MapPromised(src) {
   this._src = src;
 };
 module.exports = $;
 
-var _ = $.prototype;
+const _ = $.prototype;
+
+_.setup = function() {
+  return Promise.resolve();
+};
 
 Object.defineProperty(_, 'size', {'get': function() {
   return Promise.resolve(this._src.size);
