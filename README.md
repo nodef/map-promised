@@ -1,5 +1,7 @@
 # map-promised
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nodef/map-promised.svg)](https://greenkeeper.io/)
+
 [![NPM](https://nodei.co/npm/map-promised.png)](https://nodei.co/npm/map-promised/)
 
 Convert a Map to a Promised Map.
